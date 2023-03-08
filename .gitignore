@@ -1,3 +1,4 @@
 testTextあ.txt
 new.txt
-/bye/
+/bye/**/*
+!.keep
